@@ -1,0 +1,14 @@
+{
+  "name": "newlywordsproject",
+  "version": "1.0.0",
+  "description": "Simple Modal open/close",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mac Jankowski",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
